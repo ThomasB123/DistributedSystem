@@ -1,7 +1,8 @@
 # Just Hungry online food ordering and delivery
 
-## See 'ds.assignment.2020.pdf' for details.
+See 'ds.assignment.2020.pdf' for details.
 
+## Instructions
 
 I have used 5 external libraries in total:
 Pyro4, uuid, json, urllib, urllib.request, and math
