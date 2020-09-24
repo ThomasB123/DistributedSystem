@@ -1,6 +1,6 @@
 # Just Hungry online food ordering and delivery
 
-## See ds.assignment.2020.pdf for details.
+## See 'ds.assignment.2020.pdf' for details.
 
 
 I have used 5 external libraries in total:
