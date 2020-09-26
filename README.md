@@ -1,4 +1,4 @@
-# Online food ordering
+# Distributed System
 
 You are required to implement a fault-tolerant distributed system, called “Just Hungry”, based on passive replication, supporting online food ordering and delivery. You are expected to use RMI in either Java or Python implementing the system. There are various aspects for constructing such a system, including client and server implementation, operation workflow design, data integrity, message design, etc. Your implementation should comprise at least three back-end servers, one front-end server, supporting a client to retrieve and submit food orders. The coursework allows you to demonstrate your competence in developing distributed systems. Submission deadline is 13th March 2020 (2pm). This assessment contributes 12.5% of the overall COMP2211 module mark.
 
